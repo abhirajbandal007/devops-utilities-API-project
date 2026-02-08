@@ -10,7 +10,7 @@ This Project aims to deliever Production grade Utitlities APIs to internal teams
 
 ## Usage
 
-'git clone <>'
+'git clone https://github.com/abhirajbandal007/devops-utilities-API-project.git'
 
 ### setup python environment
 python3.14 -m venv venv
